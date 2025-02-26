@@ -15,7 +15,7 @@ export default function Home() {
             <p className={`text-lg text-gray-700 mb-4 ${monstserratFont.className}`}>
               Massa urna magnis dignissim id euismod porttitor vitae etiam viverra nunc at adipiscing sit morbi aliquet mauris porttitor nisi, senectus pharetra, ac porttitor orci.
             </p>
-            <a href="/blog" className="outline outline-1 outline-offset-2 border-purple-700 text-purple-700 hover:text-white py-2 px-4 rounded hover:bg-purple-800 md:w-auto transition-colors">
+            <a href="/blog" className="outline outline-1 outline-offset-2 border-purple-700 text-purple-700 hover:text-white py-2 px-4 rounded hover:bg-purple-800 md:w-[30%] transition-colors w-full">
               Go to Blog
             </a>
           </div>
